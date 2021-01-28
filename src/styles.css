@@ -1,0 +1,84 @@
+.container {
+  margin: 20px;
+  width: 700px;
+}
+
+nav {
+  padding: 13px 20px;
+  background-color: rgb(228, 228, 228);
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+nav ul {
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  list-style: none;
+  background-color: lightslategray;
+  padding: 2px 12px;
+  margin-right: 6px;
+  border-radius: 5px;
+  height: 26px;
+}
+
+nav li:hover {
+  cursor: pointer;
+  background-color: rgba(119, 136, 153, 0.685);
+}
+
+nav a {
+  color: whitesmoke;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+main {
+  padding: 19px 20px;
+  background-color: rgb(228, 228, 228);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  min-height: 75px;
+}
+
+main .main-header-title {
+  margin: 0;
+  margin-bottom: 15px;
+  width: fit-content;
+  padding: 0 7px;
+  border-left: 4px solid rgba(189, 188, 188, 0.568);
+}
+
+main .main-header {
+  margin-bottom: 17px;
+}
+
+main .main-header-row {
+  display: flex;
+  margin-bottom: 13px;
+}
+
+main .main-header-item {
+  margin-right: 20px;
+}
+
+main .main-header label {
+  vertical-align: middle;
+}
+
+main .main-header input {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid rgb(119, 119, 119);
+}
+
+main .main-header button {
+  padding: 2px 25px;
+}
+
+main .main-contents {
+  min-height: 130px;
+}
