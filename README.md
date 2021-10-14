@@ -1,8 +1,6 @@
-my-react-router-app
-
 # 概要
 
-React Router を使用した簡単な Single Page Application。
+React Router を使用した簡単な Single Page Application です。
 
 # レンダリング
 
@@ -22,7 +20,6 @@ React Router を使用した簡単な Single Page Application。
 
 <img src="https://user-images.githubusercontent.com/59589496/106108033-1116fe00-618b-11eb-8f03-136b2c226ce7.png" width="40%">
 
-# 使用パッケージ
+# 使用ライブラリ
 
 - react-router-dom
-
